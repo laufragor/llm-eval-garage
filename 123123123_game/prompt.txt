@@ -1,0 +1,7 @@
+Consider a deck of 40 cards, divided into 4 suits, each suit with values from 1 (Ace) to 10. The deck is shuffled and the cards are randomly arranged in 40 positions, numbered from 1 to 40. What is the probability that all of the following conditions are met simultaneously?
+
+- None of the four Aces (cards of value 1) occupies a position whose index is congruent to 1 modulo 3.
+- None of the four Twos (cards of value 2) occupies a position whose index is congruent to 2 modulo 3.
+- None of the four Threes (cards of value 3) occupies a position whose index is congruent to 0 modulo 3.
+
+Show the derivation and provide the final formula for this probability, without calculating its numerical value; it is sufficient to leave the formula with the indicated terms (e.g., factorials or binomial coefficients). Once the final formula is obtained, write a program that calculates its numerical value.

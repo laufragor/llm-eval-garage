@@ -1,0 +1,6 @@
+Si consideri un mazzo di 40 carte suddivise in 4 semi, ciascun seme con valori da 1 (Asso) a 10. Il mazzo viene mescolato e le carte sono disposte casualmente in 40 posizioni, numerate da 1 a 40. Qual è la probabilità che tutte le seguenti condizioni siano soddisfatte contemporaneamente?
+1) Nessuno dei quattro Assi (carte di valore 1) occupa una posizione il cui indice è congruo a 1 modulo 3;
+2) Nessuno dei quattro Due occupa una posizione il cui indice è congruo a 2 modulo 3;
+3) Nessuno dei quattro Tre occupa una posizione il cui indice è congruo a 0 modulo 3.
+
+Mostra lo svolgimento e fornisci la formula finale per questa probabilità, senza calcolarne il valore numerico; è sufficiente lasciare la formula con i termini indicati (ad esempio, fattoriali o coefficienti binomiali). Una volta ottenuta la formula finale, scrivi un programma che ne calcola il valore numerico.
